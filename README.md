@@ -9,7 +9,7 @@ This repository contains all legal documents and privacy policies for the Quick 
 - **Turkish**: [privacy-policy-tr.md](./privacy-policy-tr.md) - Complete privacy policy in Turkish
 
 ### GDPR Data Processing Information
-- **English**: [data-processing-info-en.md](./data-processing-info.md) - GDPR compliant data processing information in English
+- **English**: [data-processing-info.md](./data-processing-info.md) - GDPR compliant data processing information in English
 - **Turkish**: [data-processing-info-tr.md](./data-processing-info-tr.md) - GDPR compliant data processing information in Turkish
 
 ### Terms and Agreements
